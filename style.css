@@ -51,7 +51,15 @@ body{
 }
 
 .estudante-imagem{
-width: 120px;
+width: 100px;
+}
+
+.estudante-bob{
+  width: 110px;
+}
+
+.estudante-kevin{
+  width: 80px;
 }
 
 .icones-aplicativos{

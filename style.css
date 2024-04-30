@@ -50,16 +50,39 @@ body{
   padding: 24px 0;
 }
 
-.estudante-imagem{
-width: 100px;
+.estudante-gru{
+width: 90px;
+}
+
+.estudante-lucy{
+  width: 110px;
+}
+
+.estudante-margo{
+  width: 130px;
+}
+
+.estudante-edith{
+  width: 160px;
+}
+
+.estudante-agnes{
+  width: 190px;
 }
 
 .estudante-bob{
-  width: 110px;
+  width: 150px;
+  padding: 40px 0;
+}
+
+.estudante-stuart{
+  width: 140px;
+  padding: 25px 0;
 }
 
 .estudante-kevin{
   width: 80px;
+  padding: 10px 0;
 }
 
 .icones-aplicativos{
@@ -68,4 +91,25 @@ width: 100px;
 
 .estudante-div{
 text-align: center;
+}
+
+.estudante-titulo{
+  text-align: center;
+  padding: 50px 0;
+}
+
+.estudante-todos{
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  padding: 30px 0;
+}
+
+.rodape{
+  background-color: black;
+  text-align: center;
+}
+
+.rodape-imagem{
+  height: 60px;
+  padding: 12px 0;
 }
